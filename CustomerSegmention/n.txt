@@ -1,0 +1,5 @@
+
+
+  Customer Segmentation
+Grouping customers based on their purchasing behavior and demographics to target marketing strategies effectively.
+Resources :https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python

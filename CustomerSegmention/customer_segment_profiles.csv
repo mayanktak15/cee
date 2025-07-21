@@ -1,0 +1,6 @@
+Cluster_ID,Segment_Name,Description,Size,Percentage,Avg_Age,Avg_Income,Avg_Spending
+0,Budget-Conscious Customers,"Low income, low spending - Price-sensitive segment",20,10.0%,46.2,$26.8k,18.4/100
+1,Moderate Customers,Balanced income and spending - Mainstream market,54,27.0%,25.2,$41.1k,62.2/100
+2,Premium Customers,"High income, high spending - Luxury-seeking VIPs",40,20.0%,32.9,$86.1k,81.5/100
+3,Conservative High-Earners,High income but low spending - Quality-focused conservatives,39,19.5%,39.9,$86.1k,19.4/100
+4,Moderate Customers,Balanced income and spending - Mainstream market,47,23.5%,55.6,$54.4k,48.9/100
